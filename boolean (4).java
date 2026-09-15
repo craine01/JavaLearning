@@ -5,9 +5,9 @@ public class main {
   int  x = 9;
   int y = 10;
   boolean checkNum = x == y;
-  /* true */
-  boolean checkNo = x != y;
   /* false */
+  boolean checkNo = x != y;
+  /* true */
     System.out.println(checkNo);
   }
 }
